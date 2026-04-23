@@ -79,7 +79,7 @@ The goal was to analyze business performance across revenue, profitability, cust
 
 | File | Description |
 |------|-------------|
-| `End_to_end_project.sql` | All 50+ SQL queries with comments |
+| `SQL Query File.sql` | All 50+ SQL queries with comments |
 | `README.md` | Project documentation |
 
 > 🔜 **Coming Soon:** Power BI Dashboard on the same dataset
