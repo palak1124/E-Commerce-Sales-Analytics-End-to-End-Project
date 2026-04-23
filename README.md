@@ -69,7 +69,6 @@ The goal was to analyze business performance across revenue, profitability, cust
 | `COUNTIF` | Loss transactions, retention rate |
 | `CORR()` | Discount vs profit correlation |
 | `DATE_DIFF` | Delivery days, customer active days |
-| `NULLIF` | Safe division to avoid divide-by-zero |
 | Multi-table JOINs | Most queries (up to 4 tables) |
 | Subqueries | Negative margin %, max date for RFM |
 | `HAVING` | Filtering aggregated results |
